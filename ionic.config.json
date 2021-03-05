@@ -1,0 +1,7 @@
+{
+  "name": "twitterClone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
